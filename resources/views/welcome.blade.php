@@ -15,7 +15,7 @@
 
    
         <div class="alert alert-success">
-            <p>{{ $message }}</p>
+            <p></p>
         </div>
     
 
