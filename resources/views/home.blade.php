@@ -32,7 +32,7 @@
             </tr>
         </thead>
         <tbody>
-        @foreach ($students as $student)
+        
             <tr>
                 <td>Jandel</td>
                 <td>jandel@gmail.com</td>
@@ -47,7 +47,7 @@
                     </form>
                 </td>
             </tr>
-        @endforeach
+       
         </tbody>
     </table>
 
